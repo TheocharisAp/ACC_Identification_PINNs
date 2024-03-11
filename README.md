@@ -3,7 +3,7 @@
 The repository contains supplementary material for the paper:
 - Th. Apostolakis and K. Ampountolas, "Physics-inspired Neural Networks for Parameter Learning of Adaptive Cruise Control Systems," **IEEE Transactions on Vehicular Technology**, Under Review, 2024.
 
-This work develops a Physics-Inspired Neural Network (PiNN) to learn the parameters of commercially implemented Adaptive Cruise Control (ACC) systems in the automotive industry.
+This work develops a Physics-inspired Neural Network (PiNN) to learn the parameters of commercially implemented Adaptive Cruise Control (ACC) systems in the automotive industry.
 
 The proposed PiNN is trained and tested on both synthetic and empirical data of space-gap and relative velocity from three car-following experimental campaigns.
 
